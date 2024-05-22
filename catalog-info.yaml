@@ -10,7 +10,7 @@ spec:
   lifecycle: experimental
   projectInfo:
     projectName: SelvaTestApiBackstage
-    moduleName: asdasdasd
+    moduleName: asdasd
     informationAuthor: ''
     modality: ''
     bodyParts: ''
@@ -52,5 +52,3 @@ spec:
     group: ''
     TRL: ''
     projectStatus: ''
-  confluence:
-    repo-type: Github
